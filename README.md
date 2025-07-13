@@ -1,5 +1,5 @@
-# survival-analysis-plots-with-tables-risk-hearing-loss
-R codes create final deliverable that shows plots and tables survival rates for types of hearing loss
+# machine-learning-predictive-analysis-plots-with-tables-risk-hearing-loss
+R codes that use machine learning technique of Survival Analysis (KM plots). Code creates final deliverable that shows plots and tables that predict the time until different types of hearing loss occurs (survival rates).
 
 Background: A Kaplan-Meier (KM) curve - a graphical representation of survival rates over time, showing the probability of surviving to a certain point. Plots time on the x-axis and the survival rate on the y-axis. 
 __________________________________________________________
